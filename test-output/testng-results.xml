@@ -5,12 +5,12 @@
       <![CDATA[sucessful run]]>
     </line>
   </reporter-output>
-  <suite name="Default suite" duration-ms="152" started-at="2020-08-06T16:57:56 IST" finished-at="2020-08-06T16:57:56 IST">
+  <suite name="Default suite" duration-ms="151" started-at="2020-08-06T17:42:25 IST" finished-at="2020-08-06T17:42:26 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="152" started-at="2020-08-06T16:57:56 IST" finished-at="2020-08-06T16:57:56 IST">
+    <test name="Default test" duration-ms="151" started-at="2020-08-06T17:42:25 IST" finished-at="2020-08-06T17:42:26 IST">
       <class name="com.acttitime.Timetrack.Demo">
-        <test-method status="PASS" signature="run()[pri:0, instance:com.acttitime.Timetrack.Demo@6895a785]" name="run" duration-ms="43" started-at="2020-08-06T16:57:56 IST" finished-at="2020-08-06T16:57:56 IST">
+        <test-method status="PASS" signature="run()[pri:0, instance:com.acttitime.Timetrack.Demo@4d95d2a2]" name="run" duration-ms="13" started-at="2020-08-06T17:42:26 IST" finished-at="2020-08-06T17:42:26 IST">
           <reporter-output>
             <line>
               <![CDATA[sucessful run]]>

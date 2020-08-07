@@ -9,6 +9,7 @@ public class Demo {
 	
 	public void run() {
 		Reporter.log("sucessful run",true);
+		Reporter.log("hi i am alok",true);
 	}
 
 }
